@@ -1,0 +1,26 @@
+{
+    "users": [
+        {
+            "firstName": "Kelvin",
+            "lastName": "Trang",
+            "major": "Human-Centered Design & Development",
+            "experiences": {
+                "experience1": {
+                    "company": "Hughes Network Systems",
+                    "title": "Network Security Intern",
+                    "location": "Germantown, MD",
+                    "startDate": "June 2019",
+                    "endDate": "Jan 2020"
+                },
+                "experience2": {
+                    "company": "Penn State IT Service Desk",
+                    "title": "IT Consultant",
+                    "location": "University Park, PA",
+                    "startDate": "Oct 2020",
+                    "endDate": "Present"
+                }
+            },
+            "skills": [ "Java", "Linux", "HTML", "CSS", "JavaScript"]
+        }
+    ]
+}
